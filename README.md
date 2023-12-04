@@ -1,1 +1,2 @@
 # clean-model
+The Group constructor in your Group.java file has many arguments, which can make it difficult to use and maintain. One way to address this is by using the Builder pattern. The Builder pattern allows you to construct complex objects step by step. It separates the construction of an object from its representation. 
